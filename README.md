@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Tarasato 👋🏻  
+
+- 🎓 B.Sc. in Computer Science
+- 💻 Backend / System / Database
+- ⚙️ Java, Python, C C+ C# | SQL | Linux | KVM | Ubuntu
+- 🚀 Interested in High Performance Computing && Quantum Computing
+
+---
+
+## 🧑🏻‍💻 About Me
+
+- 🔍 Log reader
+- 🪟🐧 Ubuntu && Windows
+- 🎮 POE2, Minecraft
+
+---
+
+## 🎯 Current Focus
+
+- English language
+- Moding Minecraft
+
+---
+
+> “Fix the root cause. Not the symptom.”
 
 <!--
-**Tarasato/Tarasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact
 
-Here are some ideas to get you started:
+- Email: your@email.com
+ - LinkedIn: (optional) -->
+ 
+<!--
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🖥 System
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
 -->
