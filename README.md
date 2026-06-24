@@ -11,6 +11,7 @@
 
 - 🔍 Log reader
 - 🪟🐧 Ubuntu && Windows
+- 🐧 Linux Since 2026-05-23 02:51:26.000000000 +0400
 - 🎮 POE2, Minecraft
 
 ---
